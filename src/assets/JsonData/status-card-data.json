@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-shopping-bag",
+        "count": "170",
+        "title": "Total Projects"
+    },
+    {
+        "icon": "bx bx-eraser",
+        "count": "11",
+        "title": "Pending"
+    },
+    {
+        "icon": "bx bx-wrench",
+        "count": "3",
+        "title": "Glitch"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "xxx",
+        "title": "Total revenue"
+    }
+]
